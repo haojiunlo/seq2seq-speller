@@ -1,0 +1,7 @@
+transformers==4.19.2
+torch==1.7.1
+scikit-learn
+pandas
+tensorboard
+datasets
+optimum[onnxruntime]
